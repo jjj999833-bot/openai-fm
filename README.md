@@ -1,4 +1,8 @@
-# OpenAI.fm
+खेत, गाय-भैंस, हरियाली)
+Voice:
+“यहाँ की सुबह खेतों की खुशबू से शुरू होती है,
+और मेहनत की मिट्टी से दिन सजता है।”
+OpenAI.fm
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![NextJS](https://img.shields.io/badge/Built_with-NextJS-blue)
